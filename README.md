@@ -7,3 +7,7 @@ A file is a data structure for storing data. The number of items of data stored 
 By using secondary stoarage, files **persist in time** because secondary storage is non-volatile whereas RAM is volatile.
 
 Files have types, such as **text**
+
+## Text files
+
+Text files are files whose contents are sequences of characters organised on a line by line basis. May be opened and read in a text editor such as Microsoft's WordPad.
